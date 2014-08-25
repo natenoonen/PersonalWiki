@@ -1,0 +1,12 @@
+[Notebook]
+version=0.4
+name=Book1
+interwiki=
+home=Home
+icon=
+document_root=
+shared=False
+endofline=unix
+disable_trash=False
+profile=
+
